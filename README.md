@@ -6,15 +6,15 @@
 - Tresor-App in der wichtige Dokumente und Karten wie Personalausweis, Bankkarte… hinterlegt werden können.
 
 - Zielgruppe: 
-    - Personen welche ihre reale Geldböre durch eine digitale komplett Lösunge austauschen möchten.
-    - Grundkenntissen im Umgang mit Handy-Apps
+    - Personen welche ihre reale Geldbörse durch eine digitale Komplettlösung austauschen möchten.
+    - Grundkenntnissen im Umgang mit Handy-Apps
 
 - Screenideen:
 1. Startseite Login
 2. Und Registrierung
 3. Auflistung der Karten mit Bild oder Text und Filterfunktion
 4. Bearbeitung/hinzugfügen der Karten
-5. Deteilansicht einer Karte
+5. Detailansicht einer Karte
 
 
 ## Meilenstein 2: 14.05.2023

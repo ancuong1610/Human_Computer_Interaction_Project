@@ -16,6 +16,12 @@
 4. Bearbeitung/hinzugfügen der Karten
 5. Detailansicht einer Karte
 
+Skizzen: 
+[Skizze 1](./Meilenstein_1/Skizzen/Skizzen_01.jpg)
+[Skizze 2](./Meilenstein_1/Skizzen/Skizze_02.pdf)
+[Skizze 3](./Meilenstein_1/Skizzen/Skizze_03.pdf)
+
+
 
 ## Meilenstein 2: 14.05.2023
 

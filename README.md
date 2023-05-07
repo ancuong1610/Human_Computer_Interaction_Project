@@ -24,6 +24,37 @@ Skizzen:
 
 
 ## Meilenstein 2: 14.05.2023
+### Personas
+- Kriterienliste (anhand einer zuvor erstellten Personenliste):
+    - nach folgenden Kriterien unterscheiden sich die Personen:
+        - Anzahl Karten
+	    - Sicherheit im Umgang mit Smartphone/Smartphone-Affinität
+	    - Menge an Bargeld
+	    - Alter
+        - Zustand/Wert der Geldbörse
+    - davon relevant für die Klassifikation der Benutzer:
+        - Smartphone-Affinität
+        - Anzahl der Karten
+        - Alter
+    - Ausprägung bei Persona 1: 
+        - sehr Smartphone-affin
+        - besitzt viele Karten (8)
+        - 26 Jahre alt
+    
+    - Ausprägung bei Persona 2: (Link zu Persona 2)
+        - ...
+        - ...
+        - ...
+### Interview
+- Interview-Leitfaden:
+
+- Interview-Durchführung: 
+Protokoll/Transkript (Link hinzufügen)
+
+### Anwendungsszenarien
+
+### Anforderungen
+
 
 ## Meilenstein 3: 28.05.2023
 

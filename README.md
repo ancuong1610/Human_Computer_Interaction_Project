@@ -42,11 +42,26 @@ Skizzen:
         - 26 Jahre alt
     
     - Ausprägung bei [Persona 2](./Meilenstein_2/Stereotypen/Friedrich_-_Stereotyp_Nils_Schinko.pdf):
-        - ...
-        - ...
-        - ...
+        - an Technick interesiert
+        - Lagerlogistik, Grafigdesign
+        - 34 Jahre alt
+
 ### Interview
 - Interview-Leitfaden:
+    Fragen:
+        - Wofür nutzt du dein Geldbeutel am meisten?
+        - Wofür nutzt du dein Handy am meisten?
+        - Hast du schon mal mit deinem Handy bezahlt?
+            - Ja: In welcher Situation war das?
+            - Ja: Machst du das immer?
+                - Nein: Warum nicht?
+            - Nein: Warum nicht?
+        - Wie stehst du zu digitalen Gesundheitszertifikaten?
+        - In Welcher Situation hast du nur dein Handy bei dir?
+        - In Welcher Situation hast du nur dein Geldbeutel bei dir?
+            - Und wann beides?
+        - Was müsste ein Digitaler-Geldbeutel besser machen, sodass du kein Echten-Geldbeutel mehr nutzen willst?
+        - Hast du noch weitere Anmerkungen welche du uns mitteilen willst?
 
 - Interview-Durchführung: 
 Protokoll/Transkript (Link hinzufügen)

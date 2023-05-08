@@ -48,20 +48,20 @@ Skizzen:
 
 ### Interview
 - Interview-Leitfaden:
-    Fragen:
-        - Wofür nutzt du dein Geldbeutel am meisten?
-        - Wofür nutzt du dein Handy am meisten?
-        - Hast du schon mal mit deinem Handy bezahlt?
-            - Ja: In welcher Situation war das?
-            - Ja: Machst du das immer?
-                - Nein: Warum nicht?
+Fragen:
+    - Wofür nutzt du dein Geldbeutel am meisten?
+    - Wofür nutzt du dein Handy am meisten?
+    - Hast du schon mal mit deinem Handy bezahlt?
+        - Ja: In welcher Situation war das?
+        - Ja: Machst du das immer?
             - Nein: Warum nicht?
-        - Wie stehst du zu digitalen Gesundheitszertifikaten?
-        - In Welcher Situation hast du nur dein Handy bei dir?
-        - In Welcher Situation hast du nur dein Geldbeutel bei dir?
-            - Und wann beides?
-        - Was müsste ein Digitaler-Geldbeutel besser machen, sodass du kein Echten-Geldbeutel mehr nutzen willst?
-        - Hast du noch weitere Anmerkungen welche du uns mitteilen willst?
+        - Nein: Warum nicht?
+    - Wie stehst du zu digitalen Gesundheitszertifikaten?
+    - In Welcher Situation hast du nur dein Handy bei dir?
+    - In Welcher Situation hast du nur dein Geldbeutel bei dir?
+        - Und wann beides?
+    - Was müsste ein Digitaler-Geldbeutel besser machen, sodass du kein Echten-Geldbeutel mehr nutzen willst?
+    - Hast du noch weitere Anmerkungen welche du uns mitteilen willst?
 
 - Interview-Durchführung: 
 Protokoll/Transkript (Link hinzufügen)

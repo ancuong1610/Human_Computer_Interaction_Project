@@ -17,9 +17,9 @@
 5. Detailansicht einer Karte
 
 Skizzen: 
-[Skizze 1](./Meilenstein_1/Skizzen/Skizzen_01.jpg)
-[Skizze 2](./Meilenstein_1/Skizzen/Skizze_02.pdf)
-[Skizze 3](./Meilenstein_1/Skizzen/Skizze_03.pdf)
+- [Skizze 1](./Meilenstein_1/Skizzen/Skizzen_01.jpg)
+- [Skizze 2](./Meilenstein_1/Skizzen/Skizze_02.pdf)
+- [Skizze 3](./Meilenstein_1/Skizzen/Skizze_03.pdf)
 
 
 
@@ -36,12 +36,12 @@ Skizzen:
         - Smartphone-Affinität
         - Anzahl der Karten
         - Alter
-    - Ausprägung bei Persona 1: 
+    - Ausprägung bei [Persona 1](./Meilenstein_2/Stereotypen/Thai_-_Stereotyp_Trang_Nguyen.pdf): 
         - sehr Smartphone-affin
         - besitzt viele Karten (8)
         - 26 Jahre alt
     
-    - Ausprägung bei Persona 2: (Link zu Persona 2)
+    - Ausprägung bei [Persona 2](./Meilenstein_2/Stereotypen/Friedrich_-_Stereotyp_Nils_Schinko.pdf):
         - ...
         - ...
         - ...

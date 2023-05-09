@@ -47,7 +47,7 @@ Skizzen:
         - 34 Jahre alt
 
 ### Interview
-- Interview-Leitfaden:
+- Interview-Leitfaden:<br>
 Fragen:
     - Wofür nutzt du dein Geldbeutel am meisten?
     - Wofür nutzt du dein Handy am meisten?
@@ -63,8 +63,9 @@ Fragen:
     - Was müsste ein Digitaler-Geldbeutel besser machen, sodass du kein Echten-Geldbeutel mehr nutzen willst?
     - Hast du noch weitere Anmerkungen welche du uns mitteilen willst?
 
-- Interview-Durchführung: 
-Protokoll/Transkript zu [Persona 1](./Meilenstein_2/Interviewprotokolle/Interview_Protokoll_Trang.md)
+- Interview-Durchführung:<br>
+Protokoll/Transkript zu [Persona 1](./Meilenstein_2/Interviewprotokolle/Interview_Protokoll_Trang.md)<br>
+Protokoll/Transkript zu [Persona 2](./Meilenstein_2/Interviewprotokolle/Interview_Protokoll_Nils.md)
 
 ### Anwendungsszenarien
 

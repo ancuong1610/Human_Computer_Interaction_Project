@@ -43,7 +43,7 @@ Skizzen:
     
     - Ausprägung bei [Persona 2](./Meilenstein_2/Stereotypen/Friedrich_-_Stereotyp_Nils_Schinko.pdf):
         - an Technick interesiert
-        - Lagerlogistik, Grafigdesign
+        - Lagerlogistik, Grafikdesign
         - 34 Jahre alt
 
 ### Interview
@@ -64,7 +64,7 @@ Fragen:
     - Hast du noch weitere Anmerkungen welche du uns mitteilen willst?
 
 - Interview-Durchführung: 
-Protokoll/Transkript (Link hinzufügen)
+Protokoll/Transkript zu [Persona 1](./Meilenstein_2/Interviewprotokolle/Interview_Protokoll_Trang.md)
 
 ### Anwendungsszenarien
 

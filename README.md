@@ -67,10 +67,8 @@ Fragen:
 Protokoll/Transkript zu [Persona 1](./Meilenstein_2/Interviewprotokolle/Interview_Protokoll_Trang.md)<br>
 Protokoll/Transkript zu [Persona 2](./Meilenstein_2/Interviewprotokolle/Interview_Protokoll_Nils.md)
 
-### Anwendungsszenarien
-
-### Anforderungen
-
+### Anwendungsszenarien und Anforderungen
+[Szenariobeschreibungen und Anforderungen](./Meilenstein_2/Szenariobeschreibungen_und_Anforderungen.md)<br>
 
 ## Meilenstein 3: 28.05.2023
 

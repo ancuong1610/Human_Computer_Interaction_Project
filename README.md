@@ -3,7 +3,7 @@
 ## Meilenstein 1: 30.04.2023
 
 # Projektidee:
-- Tresor-App in der wichtige Dokumente und Karten wie Personalausweis, Bankkarte… hinterlegt werden können.
+- Tresor/Wallet-App in der wichtige Dokumente und Karten wie Personalausweis, Bankkarte… hinterlegt werden können.
 
 - Zielgruppe: 
     - Personen welche ihre reale Geldbörse durch eine digitale Komplettlösung austauschen möchten.
@@ -42,23 +42,23 @@ Skizzen:
         - 26 Jahre alt
     
     - Ausprägung bei [Persona 2](./Meilenstein_2/Stereotypen/Friedrich_-_Stereotyp_Nils_Schinko.pdf):
-        - an Technick interesiert
+        - an Technik interesiert
         - 6 Karten und Organspendeausweis
         - 34 Jahre alt
 
 ### Hypothesen:
-Zu interviewente Person im weitern "User" genannt.
+Zu interviewende Person im Weiteren "User" genannt.
 - User nutzt seinen Geldbeutel zum Aufbewahren von wichtigen Karten und Bargeld. 
 - User besitzt ein Handy und nutzt es regelmäßig.
 - User hat schon mal mit seinem Handy bezahlt.
-- User nutze bereits das digitalen Gesundheitszertifikat zu Corona Zeiten.
-- User hat meisten Handy und Geldbeutel bei sich wenn er unterwegs ist.
-- User hat eine Vorstellung was eine Digitaler-Geldbeute leisten sollte.
+- User nutzte bereits das digitale Gesundheitszertifikat zu Corona Zeiten.
+- User hat meistens Handy und Geldbeutel bei sich, wenn er unterwegs ist.
+- User hat eine Vorstellung was ein Digitaler-Geldbeutel leisten sollte.
 
 ### Interview
 - Interview-Leitfaden:<br>
 Fragen:
-    - Wofür nutzt du dein Geldbeutel am meisten?
+    - Wofür nutzt du deinen Geldbeutel am meisten?
     - Wofür nutzt du dein Handy am meisten?
     - Hast du schon mal mit deinem Handy bezahlt?
         - Ja: In welcher Situation war das?

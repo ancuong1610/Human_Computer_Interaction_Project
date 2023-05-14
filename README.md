@@ -43,7 +43,7 @@ Skizzen:
     
     - Ausprägung bei [Persona 2](./Meilenstein_2/Stereotypen/Friedrich_-_Stereotyp_Nils_Schinko.pdf):
         - an Technick interesiert
-        - Lagerlogistik, Grafikdesign
+        - 6 Karten und Organspendeausweis
         - 34 Jahre alt
 
 ### Hypothesen:

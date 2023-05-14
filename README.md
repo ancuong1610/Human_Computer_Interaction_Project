@@ -46,6 +46,15 @@ Skizzen:
         - Lagerlogistik, Grafikdesign
         - 34 Jahre alt
 
+### Hypothesen:
+Zu interviewente Person im weitern "User" genannt.
+- User nutzt seinen Geldbeutel zum Aufbewahren von wichtigen Karten und Bargeld. 
+- User besitzt ein Handy und nutzt es regelmäßig.
+- User hat schon mal mit seinem Handy bezahlt.
+- User nutze bereits das digitalen Gesundheitszertifikat zu Corona Zeiten.
+- User hat meisten Handy und Geldbeutel bei sich wenn er unterwegs ist.
+- User hat eine Vorstellung was eine Digitaler-Geldbeute leisten sollte.
+
 ### Interview
 - Interview-Leitfaden:<br>
 Fragen:

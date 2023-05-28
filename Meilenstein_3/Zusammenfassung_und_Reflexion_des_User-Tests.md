@@ -1,4 +1,4 @@
-**## Test**
+**Test**
 
 Anwendungsfälle:
 
@@ -14,7 +14,7 @@ Anwendungsfälle:
 
 6. Ausloggen
 
-##Protokoll:
+**Protokoll:**
 
 1. Die Testperson klickt auf das Feld E-Mail und eine Tastatur erscheint(Bild einfügen). Nachdem der Buchstabe "a" eingegeben wurde, klickt die Person auf das Feld Passwort. Die Tastatur bleibt dabei sichtbar und die Testperson tippt wieder auf den Buchstaben "a". Damit der "Einloggen"-Button nicht mehr von der Tastatur verdeckt wird, tippt die Testperson auf ein "leeres Element" und die Tastatur verschwindet. Anschließend klickt die Testperson auf den "Einloggen"-Button.
 
@@ -30,6 +30,6 @@ Allerdings kommt die Testperson nicht mehr zurück auf die Hauptseite. Nach mehr
 
 6. Die Testperson klickt auf das Zahnrad und die Einstellungsseite wird aufgerufen. (Bild einfügen) Anschließend klickt die auf "Ausloggen" und wird wieder auf die Login Seite weitergeleitet (Bild einfügen)
 
-Reflexion des User Tests:
+**Reflexion des User Tests:**
 
 Der User Test ergab, dass die grundlegenden Funktionen der Anwendung gut funktionieren. Der Login-Prozess und das Hinzufügen eines Personalausweises per NFC verliefen reibungslos. Es gab jedoch Schwierigkeiten beim Zurückkehren zur Hauptseite aus der Detailansicht. Die Filterung nach dem Themengebiet "Auto" und die Verwendung von NFC funktionierten einwandfrei. Der Ausloggen-Prozess war ebenfalls erfolgreich. Die Ergebnisse zeigen, dass die Anwendung insgesamt eine gute Benutzererfahrung bietet, aber die Navigation könnte klarer gestaltet werden. Anpassungen sollten gemacht werden, um die Rückkehr zur Hauptseite zu erleichtern und die Benutzerfreundlichkeit zu verbessern.

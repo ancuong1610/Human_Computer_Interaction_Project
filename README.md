@@ -81,6 +81,15 @@ Protokoll/Transkript zu [Persona 2](./Meilenstein_2/Interviewprotokolle/Intervie
 
 ## Meilenstein 3: 28.05.2023
 
+### Screendiagramme 
+[Ordner mit Bildern der Screendiagramme](/Meilenstein_3/Screendiagramme)<br>
+
+### Bilder des Papierprototypen
+
+### Zusammenfassung und Reflexion des User-Tests
+[Zusammenfassung und Reflexion des User-Tests](./Meilenstein_3/Zusammenfassung_und_Reflexion_des_User-Tests.md)<br>
+
+
 ## Meilenstein 4: 11.06.2023
 
 ## Meilenstein 5: 25.06.2023

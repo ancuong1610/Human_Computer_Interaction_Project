@@ -84,7 +84,42 @@ Protokoll/Transkript zu [Persona 2](./Meilenstein_2/Interviewprotokolle/Intervie
 ### Screendiagramme 
 [Ordner mit Bildern der Screendiagramme](/Meilenstein_3/Screendiagramme)<br>
 
+### Navigationsübersicht 
+[PDF der Navigationsübersicht](/Meilenstein_3/Navigationsübersicht_abstrakt.pdf
+)<br>
+
 ### Bilder des Papierprototypen
+[Ordner mit allen Bildern](/Meilenstein_3/Bilder_Papierprototyp)<br>
+
+**Anwendungsfälle:**
+
+1. Login (für den Test mit "a" als E-Mail und "a" als Passwort)
+
+    [Bild Startseite](/Meilenstein_3/Bilder_Papierprototyp/01_Startseite.jpg)<br>
+    [Login mit eingeblendeter Tastatur](/Meilenstein_3/Bilder_Papierprototyp/02_Login mit       eingeblendeter Tastatur.jpg)<br>
+    [Login ohne Tastatur](/Meilenstein_3/Bilder_Papierprototyp/03_Login ohne Tastatur.jpg)<br>
+    [Übersicht der Karten nach Login](/Meilenstein_3/Bilder_Papierprototyp/04_Übersicht mit mehreren Karten.jpg)<br>
+2. (bereitgestellten) Personalausweis hinzufügen
+
+    [Karte hinzufügen](/Meilenstein_3/Bilder_Papierprototyp/09_1Karte hinzufügen.jpg)<br>
+    [Auswahlbildschirm Karte hinzufügen](/Meilenstein_3/Bilder_Papierprototyp/06_Karte hinzufügen.jpg)<br>
+    [Hinzugefügte Karte speichern](/Meilenstein_3/Bilder_Papierprototyp/09_Karte hinzufügen.jpg)<br>
+3. Detailansicht vom hinzugefügten Personalausweis ansehen
+
+    [Detailansicht Personalausweis](/Meilenstein_3/Bilder_Papierprototyp/10_NFC für Karte aktivieren.jpg)<br>
+
+4. Filtern nach Themengebiet Auto und Anzeigen des Führerscheins
+
+    [Anzeige Führerschein](/Meilenstein_3/Bilder_Papierprototyp/05_Beispiel Filter Auto.jpg)<br>
+
+5. Karte per NFC vorzeigen
+
+    [NFC Funktion auslesen](/Meilenstein_3/Bilder_Papierprototyp/07_NFC Funktion auslesen.jpg)<br>
+    [NFC Karte auslesen](/Meilenstein_3/Bilder_Papierprototyp/08_Karte auslesen.jpg)<br>
+
+6. Ausloggen
+
+    [Ausloggen in den Einstellungen](/Meilenstein_3/Bilder_Papierprototyp/12_Einstellungscreen.jpg)<br>
 
 ### Zusammenfassung und Reflexion des User-Tests
 [Zusammenfassung und Reflexion des User-Tests](./Meilenstein_3/Zusammenfassung_und_Reflexion_des_User-Tests.md)<br>

@@ -126,6 +126,8 @@ Protokoll/Transkript zu [Persona 2](./Meilenstein_2/Interviewprotokolle/Intervie
 
 
 ## Meilenstein 4: 11.06.2023
+### Screendiagramme 
+[Layout-Screenshots inkl Erklärung](/Meilenstein_4/ScreenshotsErklaerung.md)<br>
 
 ## Meilenstein 5: 25.06.2023
 

@@ -36,13 +36,16 @@ Unten rechts mit dem "Hinzufügen"-Button ist es möglich zu der Activity "Add C
 
 
 # NFC Ready to Read
-<img src="./Screenshots/nfcReadyToRead.png" alt="Bildbeschreibung" style="width: 20%; height: 20%;">
 Screen mit Text "Bereit zum Lesen. Bitte halten Sie ihre Karte an die Rückseite ihres Smartphones." Sobald eine NFC-fähige Karte erkannt wird, wird zum "NFC Reading"-Screen gewechselt.  
+<img src="./Screenshots/nfcReadyToRead.png" alt="Bildbeschreibung" style="width: 20%; height: 20%;">
+
 
 # NFC Reading
-<img src="./Screenshots/nfcReading.png" alt="Bildbeschreibung" style="width: 20%; height: 20%;">
 Screen mit Wartesymbol und einem "Erledigt"-Button als Platzhalter bis die NFC Funktion implementiert ist.
+<img src="./Screenshots/nfcReading.png" alt="Bildbeschreibung" style="width: 20%; height: 20%;">
+
 
 # Card View To Save
-<img src="./Screenshots/cardViewToSave.png" alt="Bildbeschreibung" style="width: 20%; height: 20%;">
 Zu speichernde Kartenübersicht mit Bild der Karte und verschiedenen vorausgefüllten Textfeldern. Diese sollen mit dem "Speichern"-Button in die Datenbank hinzugefügt werden.
+<img src="./Screenshots/cardViewToSave.png" alt="Bildbeschreibung" style="width: 20%; height: 20%;">
+

@@ -7,6 +7,15 @@
 
 
 # Home
+
+Auf der Home Activity werden alle verfügbaren Karten groß untereinander angezeigt.
+Es ist möglich mit der Filterfunktion direkt nach Karten vom Typ "Banking", "Auto" oder "Gesundheit" zu suchen. Es ist auch möglich mit der "Suchen" Funktion nach beliebigen Karten zu suchen.
+
+Oben rechts mit dem "E" (Einstellungs) -Button ist es möglich zu der Einstellungen-Activity zu kommen.
+
+Unten rechts mit dem "Hinzufügen"-Button ist es möglich zu der Activity "Add Card Selection" zu kommen.
+
+
 <img src="./Screenshots/Home.png" alt="Bildbeschreibung" style="width: 20%; height: 20%;">
 
 

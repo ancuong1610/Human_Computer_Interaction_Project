@@ -1,40 +1,39 @@
 # Login
-![Alt](./Screenshots/Anmelden.png)
+<img src="./Screenshots/Anmelden.png" alt="Bildbeschreibung" style="width: 400px; height: auto;">
 
 
 # Register
-![Alt](./Screenshots/Registrieren.png)
+<img src="./Screenshots/Registrieren.png" alt="Bildbeschreibung" style="width: 400px; height: auto;">
 
 
 # Home
-![Alt](./Screenshots/Home.png)
+<img src="./Screenshots/Home.png" alt="Bildbeschreibung" style="width: 400px; height: auto;">
 
 
 # Settings
-![Alt](./Screenshots/Einsetllungen.png)
+<img src="./Screenshots/Einsetllungen.png" alt="Bildbeschreibung" style="width: 400px; height: auto;">
 
 
 # Add Card Selection
-![Alt](./Screenshots/addCardSelection.png)
+<img src="./Screenshots/addCardSelection.png" alt="Bildbeschreibung" style="width: 400px; height: auto;">
 
 
 # Add Card Camera Front
-![Alt](./Screenshots/addCardCamera.png)
+<img src="./Screenshots/addCardCamera.png" alt="Bildbeschreibung" style="width: 400px; height: auto;">
 
 
 # Add Card Camera Back
-![Alt](./Screenshots/addCardCameraBack.png)
+<img src="./Screenshots/addCardCameraBack.png" alt="Bildbeschreibung" style="width: 400px; height: auto;">
 
 
 # NFC Ready to Read
-![Alt](./Screenshots/nfcReadyToRead.png)
+<img src="./Screenshots/nfcReadyToRead.png" alt="Bildbeschreibung" style="width: 400px; height: auto;">
 
 
 # NFC Reading
-![Alt](./Screenshots/nfcReading.png)
+<img src="./Screenshots/nfcReading.png" alt="Bildbeschreibung" style="width: 400px; height: auto;">
 
 
 # Card View To Save
-![Alt](./Screenshots/cardViewToSave.png)
-
+<img src="./Screenshots/cardViewToSave.png" alt="Bildbeschreibung" style="width: 400px; height: auto;">
 

@@ -11,7 +11,7 @@
 
 
 # Settings
-<img src="./Screenshots/Einsetllungen.png" alt="Bildbeschreibung" style="width: 20%; height: 20%;">
+<img src="./Screenshots/Settings.png" alt="Bildbeschreibung" style="width: 20%; height: 20%;">
 
 
 # Add Card Selection

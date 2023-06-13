@@ -127,8 +127,18 @@ Protokoll/Transkript zu [Persona 2](./Meilenstein_2/Interviewprotokolle/Intervie
 
 ## Meilenstein 4: 11.06.2023
 ### Layout für Hochformat
+Unsere App soll nur im Hochformat angezeigt werden können, weil es aus unserer Sicht mit einer Wallet-App wenig Sinn macht eine Quer-Ansicht zu haben. <br>
 [Layout-Screenshots inkl. Erklärung](/Meilenstein_4/ScreenshotsErklaerung.md)<br>
 
+### Implementierung der Navigation und Darlegung des Navigationskonzepts
+Unser Navigationskonzept haben wir aus unserer [Navigationsübersicht](/Meilenstein_3/Navigations%C3%BCbersicht_abstrakt.pdf) vom Meilenstein 3 abgeleitet. <br>
+
+Die Pfeile der [Figma-Abbildung](/Meilenstein_4/Screenshots/Figma_Navigation.jpg) sollen zeigen, wie wir von einem Screen auf den anderen kommen. Um eine bessere Übersicht zu gewährleisten, haben wir die Pfeile ausgehend vom Home- und vom Settings-Button weggelassen. Diese würden jeweils immer zum Home- oder Settings-Screen führen. <br>
+
+
+### Umsetzung des Grundgerüstes der App, inkl. Programmlogik
+(Fast) alle Screens haben wir mithilfe von Android Studio umgesetzt.
+Die Screen-Übergange mithilfe der Buttons (siehe [Figma-Abbildung](/Meilenstein_4/Screenshots/Figma_Navigation.jpg)) klappen größtenteils. Für den "nfcReading"-Screen haben wir temporär einen "Erledigt"-Button eingefügt um von diesen zum "cardViewToSave"-Screen zu gelangen, da wir die NFC-Funktion für das Lesen der Karte noch nicht implementiert haben. 
 
 
 ## Meilenstein 5: 25.06.2023

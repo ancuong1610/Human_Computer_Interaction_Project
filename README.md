@@ -1,5 +1,4 @@
 
-
 ## Meilenstein 1: 30.04.2023
 
 # Projektidee:
@@ -142,6 +141,8 @@ Die Screen-Übergange mithilfe der Buttons (siehe [Figma-Abbildung](/Meilenstein
 
 
 ## Meilenstein 5: 25.06.2023
+
+[Screenshots alle Activites inkl. Erklärung](/Meilenstein_5/ScreenshotsErklaerung.md)<br>
 
 ## Meilenstein 6: 09.07.2023
 

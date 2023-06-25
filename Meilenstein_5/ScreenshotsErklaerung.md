@@ -76,7 +76,7 @@ Wenn Foto aufgenommen wird der Benutzer zu "Confirm Photo" weitergeleitet.
 
 # Confirm Photo
 
-Bei Confirm Photo kann der Benutzer das aufgenommene Foto bestägien oder zurück gehen um ein neues Foto aufzunehmen.
+Bei Confirm Photo kann der Benutzer das aufgenommene Foto bestätigen oder zurück gehen um ein neues Foto aufzunehmen.
 Wenn bestätigt wird man zur Activity "Card View To Save" weitergeleitet.
 
 <img src="/Meilenstein_5/%20Screenshots/Bild%20hinzufügen.png" width="25%">

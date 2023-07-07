@@ -146,3 +146,56 @@ Die Screen-Übergange mithilfe der Buttons (siehe [Figma-Abbildung](/Meilenstein
 
 ## Meilenstein 6: 09.07.2023
 
+### Usability Tests:
+
+### Protokoll zu [Persona 1] (Gleiche Person wie beim Interview aus Meilenstein 2)
+// TODO 
+
+### Design Review [Persona 1]
+// TODO
+
+
+
+### Protokoll zu [Persona 2] (Gleiche Person wie beim Interview aus Meilenstein 2)
+
+Effektivität:
+- Beim Registrieren musste ich einen Tipp gegeben, dass keine Zahlen- oder Buchstabenfolen erlaubt sind.
+  Erst dann wurde das Passwort akzeptiert.
+- Ansonstens konnte User alle andern Aufgaben erfüllen.
+
+Effizienz:
+- User hatte teilweise schwierigkeiten aus den Texteingabe-Feldern wieder herrauszukommen.
+
+Zufriedenheit:
+- User war beim erstellen vom Passwort teilweise sehr unzufrieden.
+- Ansonstens war User zufrieden.
+
+Robustheit:
+- User hat zwei bisher nicht bekannte Bugs gefunden:
+  1. Beim Registrien ist es möglich beim Benutzername Zeilenumbrücke mit einzugeben. Was dazuführt das diese Umbrüche mit gespeichert werden. Beim Anmelden ist es nicht möglich Zeilenumbrücke einzugeben. Somit war es nicht mehr möglich sich in diesem Account anzumelden.
+  2. In den Activities "Deteilansicht" und "Karte-Speichern" ist es möglich auf die Karten zu klicken. (Das ist nicht gewollt) Und dann öffnet sich eine weiter "Deteilansicht".
+
+Erwartungen:
+- Icon vom Button zum ein- und ausblenden der Filter-Button nicht selbst erklärend. User hat zuerst erwartet das sich ein "Side-Menu" öffnet.
+
+
+### Design Review [Persona 2]
+- Farben gut gewählt. Farben sind ansprechend. Lightmode wurde nicht vermisst.
+- Keine Probleme mit Kontrasten
+- Alle Abstände und Ränder (Margin, Padding) sind überall gut.
+- Beim Drehen des Smartphones bleibt alle im Portämodus. Auf nachfrage hat User das Verhalten auch erwartet.
+
+- Nur die Farbe grau bei der Activity "Add-Card-Selection" kommt nur da vor. Und passt nicht zu dem Rest.
+- Icon vom Button zum ein- und ausblenden der Filter-Button ist nicht selbst erklärend.
+- Toast bei "Passwort Format falsch" ist zu kurz.
+
+
+
+### Liste mit Verbesserungen:
+- Toast bei "Passwort Format falsch" ausführlicher beschreiben und länge anzeigen lassen.
+- Icon vom Button zum ein- und ausblenden der Filter-Button überarbeiten.
+- Die zwei genannten Bugs fixen. (von Persona 2)
+
+
+
+

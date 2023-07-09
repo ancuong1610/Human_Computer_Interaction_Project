@@ -149,10 +149,49 @@ Die Screen-Übergange mithilfe der Buttons (siehe [Figma-Abbildung](/Meilenstein
 ### Usability Tests:
 
 ### Protokoll zu [Persona 1] (Gleiche Person wie beim Interview aus Meilenstein 2)
-// TODO 
+Effektivität:
+- Hinsichtlich der Effektivität hat fast alles auf Anhieb geklappt, mit Ausnahme von zwei Punkten:
+- Es gab Probleme beim Registrieren aufgrund der Passworteingabe. Erst nach mehreren Versuchen wurde das Passwort akzeptiert.
+- Der Button zum Anzeigen der Filterbuttons wurde nicht direkt gefunden. 
+
+Effizienz:
+- Bei den meisten Aufgaben ging die Nutzerin ohne zu zögern direkt vor. Lediglich beim Filtern nach Gesundheit musste sie etwas länger überlegen. Außerdem hat sie sich gewundert, warum für das Abmelden ein separater Bildschirm (von welchem man nicht wieder zurück kann) angezeigt werden musste. 
+
+Zufriedenheit:
+- Die Nutzerin schien insgesamt zufrieden mit der App zu sein. Allerdings war sie von der Passworteingabe bei der Registrierung genervt oder leicht irritiert. Ebenso störte sie die unzureichende Hilfestellung, da Toast-Meldungen nicht vollständig angezeigt wurden und ihr somit nicht weitergeholfen haben.
+
+Robustheit:
+- Nach dem Beenden und anschließenden Neustart befand sich die Nutzerin wieder auf der Login-Seite. Sie konnte sich erfolgreich mit ihrem erstellten Account über ihren Nutzernamen und Passwort anmelden. Zudem waren ihre zuvor erstellten Karten (per NFC und Kamera) noch vorhanden (da alles in einer SQLite-Datenbank gespeichert wird).
+
+Erwartungen:
+Die meisten Erwartungen der Nutzerin wurden erfüllt. Es gab jedoch zwei Ausnahmen:
+- Die Verwendung der "drei Striche", um die Filterbuttons (Bank, Auto, Gesundheit) anzuzeigen.
+- Beim Hinzufügen einer Karte mit der Kamera erscheint nicht die abfotografierte Karte, sondern ein vorgefertigtes Template. Dies hat bei ihr die Frage aufgeworfen, warum die Karte überhaupt fotografiert (und bestätigt) werden muss.
 
 ### Design Review [Persona 1]
-// TODO
+Ausgefüllt von Persona 1: 
+
+1. Schrift gut lesbar?
+- Ja, ich konnte alles gut lesen. Schriftgröße ist angemessen
+
+2. Icons gut erkennbar und Funktion verständlich?
+- Ja, bis auf den Button mit den drei Strichen für die Filterbuttons und die Einblendung bei falschen Passwörtern. Diese ist unvollständig und hilft nicht weiter.
+
+
+3. Farbgebung
+- Gefällt mir persönlich sehr gut.
+
+4. Größe der Bedienelemente
+- Von der Größe her, hat für mich alles gepasst.
+
+5. Sinnvolle Gruppierung der Bedienelemente?
+- Ja, bis auf die Einstellungsseite. Dort ist nur ein Button zum Abmelden und sonst nichts.
+
+6. Abstände und Ränder
+- Hat für mich alles gepasst.
+
+7. Sinnvolles Verhalten beim Drehen des Smartphones (keine Zustandsänderung, kein Abbruch von Abläufen)
+- Bildschirm bleibt beim Drehen stets im Hochformat. Dies ist für mich in okay, ich drehe mein Smartphone sowieso nie.
 
 
 

@@ -191,7 +191,7 @@ Ausgefüllt von Persona 1:
 - Hat für mich alles gepasst.
 
 7. Sinnvolles Verhalten beim Drehen des Smartphones (keine Zustandsänderung, kein Abbruch von Abläufen)
-- Bildschirm bleibt beim Drehen stets im Hochformat. Dies ist für mich in okay, ich drehe mein Smartphone sowieso nie.
+- Bildschirm bleibt beim Drehen stets im Hochformat. Dies ist für mich okay, ich drehe mein Smartphone sowieso nie.
 
 
 
@@ -200,31 +200,31 @@ Ausgefüllt von Persona 1:
 Effektivität:
 - Beim Registrieren musste ich einen Tipp gegeben, dass keine Zahlen- oder Buchstabenfolen erlaubt sind.
   Erst dann wurde das Passwort akzeptiert.
-- Ansonstens konnte User alle andern Aufgaben erfüllen.
+- Ansonstens konnte User alle anderen Aufgaben erfüllen.
 
 Effizienz:
-- User hatte teilweise schwierigkeiten aus den Texteingabe-Feldern wieder herrauszukommen.
+- User hatte teilweise Schwierigkeiten aus den Texteingabe-Feldern wieder herauszukommen.
 
 Zufriedenheit:
-- User war beim erstellen vom Passwort teilweise sehr unzufrieden.
+- User war beim Erstellen vom Passwort teilweise sehr unzufrieden.
 - Ansonstens war User zufrieden.
 
 Robustheit:
 - User hat zwei bisher nicht bekannte Bugs gefunden:
-  1. Beim Registrien ist es möglich beim Benutzername Zeilenumbrücke mit einzugeben. Was dazuführt das diese Umbrüche mit gespeichert werden. Beim Anmelden ist es nicht möglich Zeilenumbrücke einzugeben. Somit war es nicht mehr möglich sich in diesem Account anzumelden.
-  2. In den Activities "Deteilansicht" und "Karte-Speichern" ist es möglich auf die Karten zu klicken. (Das ist nicht gewollt) Und dann öffnet sich eine weiter "Deteilansicht".
+  1. Beim Registrieren ist es möglich, beim Benutzername Zeilenumbrüche mit einzugeben, was dazu führt, das diese Umbrüche mit gespeichert werden. Beim Anmelden ist es nicht möglich Zeilenumbrücke einzugeben. Somit war es nicht mehr möglich sich in diesem Account anzumelden.
+  2. In den Activities "Detailansicht" und "Karte-Speichern" ist es möglich auf die Karten zu klicken. (Das ist nicht gewollt) Und dann öffnet sich eine weitere "Detailansicht".
 
 Erwartungen:
-- Icon vom Button zum ein- und ausblenden der Filter-Button nicht selbst erklärend. User hat zuerst erwartet das sich ein "Side-Menu" öffnet.
+- Icon vom Button zum ein- und ausblenden der Filter-Button nicht selbst erklärend. User hat zuerst erwartet, das sich ein "Side-Menu" öffnet.
 
 
 ### Design Review [Persona 2]
 - Farben gut gewählt. Farben sind ansprechend. Lightmode wurde nicht vermisst.
 - Keine Probleme mit Kontrasten
 - Alle Abstände und Ränder (Margin, Padding) sind überall gut.
-- Beim Drehen des Smartphones bleibt alle im Portämodus. Auf nachfrage hat User das Verhalten auch erwartet.
+- Beim Drehen des Smartphones bleibt alles im Porträtmodus. Auf Nachfrage hat User das Verhalten auch erwartet.
 
-- Nur die Farbe grau bei der Activity "Add-Card-Selection" kommt nur da vor. Und passt nicht zu dem Rest.
+- Die Farbe grau bei der Activity "Add-Card-Selection" kommt nur dort vor. Dies passt nicht zum Rest der App.
 - Icon vom Button zum ein- und ausblenden der Filter-Button ist nicht selbst erklärend.
 - Toast bei "Passwort Format falsch" ist zu kurz.
 

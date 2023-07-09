@@ -276,8 +276,7 @@ Erwartungen:
 <ul>
     <li>Einstellungsseite ist leer und man kommt nicht mehr zurück zur Home-Seite:
         <ul>
-              <li>Verbesserungsvorschläge:</li>
-                </ul>
+              <li>Verbesserungsvorschläge:
                     <ul>
                         <li>weitere Optionen (z.B. Sprache, Darkmode, Profil/Passwort-Änderung usw.)</li>
                         <li>mit X versehen um wieder rauszukommen</li>

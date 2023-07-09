@@ -241,11 +241,13 @@ Erwartungen:
                 </ul>
                     <ul>
                         <li>Verbesserungsvorschlag: NFC read und write fertig implementieren (<b>Hinweis</b>: Zeit am Ende zu knapp, um den Code auf dem Smartphone zu testen und Notwendigkeit eins Androidhandys, was leider nicht alle in der Gruppe hatten. Deswegen konnte die Funktionalität am Ende aus zeitlichen und organisatorischen Gründen nicht mehr fertiggestellt werden)</li>
-                        </ul>
+                            </ul>
 </ul>
+<ul>
     <li>Bei Toast "Passwort Format falsch" werden nicht alle relevanten Hinweise für ein korrektes Passwort aufgeführt.
         <ul>
             <li>Verbesserungsvorschlag: Toast-Inhalt ausführlicher beschreiben.</li>
+                </ul>
 </ul>
 <ul>
     <li>Toast bei "Passwort Format falsch" wird zu kurz zum Lesen angezeigt.
@@ -253,16 +255,28 @@ Erwartungen:
             <li>Verbesserungsvorschlag: Toast länger anzeigen lassen oder ein TextView mit dem Hinweis anzeigen.</li>
                 </ul>
 </ul>
-- Icon vom Button zum Ein- und Ausblenden der Filter-Buttons ist nicht selbsterklärend:
-    - Verbesserungsvorschlag: Icon durch ein eindeutiges Icon ersetzen. 
 
-- Die zwei genannten Bugs fixen. (von Persona 2)
-    1. Verbesserungsvorschlag: Beim Anlegen eines Benutzernamens das Einfügen von Zeilenumbrücken deaktivieren.
-    2. Verbesserungsvorschlag: Nur auf der Home-Seite das "Klicken" auf Karten zulassen.
+<ul>
+    <li>Icon vom Button zum Ein- und Ausblenden der Filter-Buttons ist nicht selbsterklärend:
+        <ul>
+            <li>Verbesserungsvorschlag: Icon durch ein eindeutiges Icon ersetzen.
+                </ul>
+</ul>
 
-- Einstellungsseite ist leer und man kommt nicht mehr zurück zur Home-Seite:
-    - Verbesserungsvorschläge:
-        - weitere Optionen (z.B. Sprache, Darkmode, Profil/Passwort-Änderung usw.)
-        - mit X versehen um wieder rauszukommen
-        - oder ganz weglassen und das Zahnrad-Symbol durch ein Logout-Symbol ersetzen
+<ul>
+     <li>Die zwei genannten Bugs fixen. (von Persona 2)</li>
+        1. Verbesserungsvorschlag: Beim Anlegen eines Benutzernamens das Einfügen von Zeilenumbrücken deaktivieren.
+        2. Verbesserungsvorschlag: Nur auf der Home-Seite das "Klicken" auf Karten zulassen.
+</ul>
 
+<ul>
+    <li>Einstellungsseite ist leer und man kommt nicht mehr zurück zur Home-Seite:
+        <ul>
+              <li>Verbesserungsvorschläge:</li>
+                </ul>
+                    <ul>
+                        <li>weitere Optionen (z.B. Sprache, Darkmode, Profil/Passwort-Änderung usw.)</li>
+                        <li>mit X versehen um wieder rauszukommen</li>
+                        <li>oder ganz weglassen und das Zahnrad-Symbol durch ein Logout-Symbol ersetzen</li>
+                            <ul>
+</ul>

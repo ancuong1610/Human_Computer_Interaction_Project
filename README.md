@@ -234,11 +234,13 @@ Erwartungen:
 - Hauptfunktionalität NFC fehlt komplett: 
     - man kann sich nicht ausweisen, bezahlen oder NFC nutzen um Karten hinzuzufügen
     - dies ist bei der App nur gemocked
+        - Verbesserungsvorschlag: NFC read und write fertig implementieren
 - Toast bei "Passwort Format falsch" ausführlicher beschreiben und länge anzeigen lassen.
 - Icon vom Button zum ein- und ausblenden der Filter-Button überarbeiten.
 - Die zwei genannten Bugs fixen. (von Persona 2)
-- Einstellungsseite:
-    - weitere Optionen (z.B. Sprache, Darkmode, Profil/Passwort-Änderung)
-    - mit X versehen um wieder rauszukommen
-    - oder ganz weglassen und das Zahnrad-Symbol durch ein Logout-Symbol ersetzen
+- Einstellungsseite ist leer und man kommt nicht mehr zurück zur Home-Seite:
+    - Verbesserungsvorschläge:
+        - weitere Optionen (z.B. Sprache, Darkmode, Profil/Passwort-Änderung)
+        - mit X versehen um wieder rauszukommen
+        - oder ganz weglassen und das Zahnrad-Symbol durch ein Logout-Symbol ersetzen
 

@@ -231,6 +231,9 @@ Erwartungen:
 
 
 ### Liste mit Verbesserungen:
+- Hauptfunktionalität NFC fehlt komplett: 
+    - man kann sich nicht ausweisen, bezahlen oder NFC nutzen um Karten hinzuzufügen
+    - dies ist bei der App nur gemocked
 - Toast bei "Passwort Format falsch" ausführlicher beschreiben und länge anzeigen lassen.
 - Icon vom Button zum ein- und ausblenden der Filter-Button überarbeiten.
 - Die zwei genannten Bugs fixen. (von Persona 2)

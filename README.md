@@ -233,27 +233,53 @@ Erwartungen:
 
 
 ### Liste mit Verbesserungen:
-- Hauptfunktionalität NFC fehlt komplett:
-    - man kann sich nicht ausweisen, bezahlen oder NFC nutzen um Karten hinzuzufügen
-    - dies ist bei der App nur gemocked
-        - Verbesserungsvorschlag: NFC read und write fertig implementieren (**Hinweis**: Zeit am Ende zu knapp, um den Code auf dem Smartphone zu testen und Notwendigkeit eins Androidhandys, was leider nicht alle in der Gruppe hatten. Deswegen konnte die Funktionalität am Ende aus zeitlichen und organisatorischen Gründen nicht mehr fertiggestellt werden)
+<ul>
+    <li>Hauptfunktionalität NFC fehlt komplett:
+        <ul>
+            <li>man kann sich nicht ausweisen, bezahlen oder NFC nutzen um Karten hinzuzufügen</li>
+             <li>dies ist bei der App nur gemocked
+                    <ul>
+                        <li>Verbesserungsvorschlag: NFC read und write fertig implementieren (<b>Hinweis</b>: Zeit am Ende zu knapp, um den Code auf dem Smartphone zu testen und Notwendigkeit eins Androidhandys, was leider nicht alle in der Gruppe hatten. Deswegen konnte die Funktionalität am Ende aus zeitlichen und organisatorischen Gründen nicht mehr fertiggestellt werden)</li>
+                        </ul>
+						</li>
+						</ul>
+						</li>
+</ul>
+<ul>
+    <li>Bei Toast "Passwort Format falsch" werden nicht alle relevanten Hinweise für ein korrektes Passwort aufgeführt.
+        <ul>
+            <li>Verbesserungsvorschlag: Toast-Inhalt ausführlicher beschreiben.</li>
+                </ul>
+</ul>
+<ul>
+    <li>Toast bei "Passwort Format falsch" wird zu kurz zum Lesen angezeigt.
+        <ul>
+            <li>Verbesserungsvorschlag: Toast länger anzeigen lassen oder ein TextView mit dem Hinweis anzeigen.</li>
+                </ul>
+</ul>
 
-- Bei Toast "Passwort Format falsch" werden nicht alle relevanten Hinweise für ein korrektes Passwort aufgeführt.
-    - Verbesserungsvorschlag: Toast-Inhalt ausführlicher beschreiben.
-
-- Toast bei "Passwort Format falsch" wird zu kurz zum Lesen angezeigt.
-    - Verbesserungsvorschlag: Toast länger anzeigen lassen oder ein TextView mit dem Hinweis anzeigen.
-
-- Icon vom Button zum Ein- und Ausblenden der Filter-Buttons ist nicht selbsterklärend:
-    - Verbesserungsvorschlag: Icon durch ein eindeutiges Icon ersetzen. 
+<ul>
+    <li>Icon vom Button zum Ein- und Ausblenden der Filter-Buttons ist nicht selbsterklärend:
+        <ul>
+            <li>Verbesserungsvorschlag: Icon durch ein eindeutiges Icon ersetzen.
+                </ul>
+</ul>
 
 - Die zwei genannten Bugs fixen. (von Persona 2)
     1. Verbesserungsvorschlag: Beim Anlegen eines Benutzernamens das Einfügen von Zeilenumbrücken deaktivieren.
     2. Verbesserungsvorschlag: Nur auf der Home-Seite das "Klicken" auf Karten zulassen.
 
-- Einstellungsseite ist leer und man kommt nicht mehr zurück zur Home-Seite:
-    - Verbesserungsvorschläge:
-        - weitere Optionen (z.B. Sprache, Darkmode, Profil/Passwort-Änderung usw.)
-        - mit X versehen um wieder rauszukommen
-        - oder ganz weglassen und das Zahnrad-Symbol durch ein Logout-Symbol ersetzen
 
+<ul>
+    <li>Einstellungsseite ist leer und man kommt nicht mehr zurück zur Home-Seite:
+        <ul>
+              <li>Verbesserungsvorschläge:
+                    <ul>
+                        <li>weitere Optionen (z.B. Sprache, Darkmode, Profil/Passwort-Änderung usw.)</li>
+                        <li>mit X versehen um wieder rauszukommen</li>
+                        <li>oder ganz weglassen und das Zahnrad-Symbol durch ein Logout-Symbol ersetzen
+                        </ul>
+						</li>
+						</ul>
+						</li>
+</ul>

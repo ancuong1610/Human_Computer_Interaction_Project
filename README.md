@@ -240,7 +240,7 @@ Erwartungen:
              <li>dies ist bei der App nur gemocked</li>
                 </ul>
                     <ul>
-                    <li>Verbesserungsvorschlag: NFC read und write fertig implementieren (<b>Hinweis<b>: Zeit am Ende zu knapp, um den Code auf dem Smartphone zu testen und Notwendigkeit eins Androidhandys, was leider nicht alle in der Gruppe hatten. Deswegen konnte die Funktionalität am Ende aus zeitlichen und organisatorischen Gründen nicht mehr fertiggestellt werden)</li>
+                    <li>Verbesserungsvorschlag: NFC read und write fertig implementieren (<b>Hinweis</b>: Zeit am Ende zu knapp, um den Code auf dem Smartphone zu testen und Notwendigkeit eins Androidhandys, was leider nicht alle in der Gruppe hatten. Deswegen konnte die Funktionalität am Ende aus zeitlichen und organisatorischen Gründen nicht mehr fertiggestellt werden)</li>
                         </ul>
 </ul>
     <li>Bei Toast "Passwort Format falsch" werden nicht alle relevanten Hinweise für ein korrektes Passwort aufgeführt.
@@ -248,9 +248,10 @@ Erwartungen:
             <li>Verbesserungsvorschlag: Toast-Inhalt ausführlicher beschreiben.</li>
 </ul>
 <ul>
-- Toast bei "Passwort Format falsch" wird zu kurz zum Lesen angezeigt.
-    </ul>
+    <li>Toast bei "Passwort Format falsch" wird zu kurz zum Lesen angezeigt.
+    <ul>
          <li>Verbesserungsvorschlag: Toast länger anzeigen lassen oder ein TextView mit dem Hinweis anzeigen.</li>
+         </ul>
 </ul>
 - Icon vom Button zum Ein- und Ausblenden der Filter-Buttons ist nicht selbsterklärend:
     - Verbesserungsvorschlag: Icon durch ein eindeutiges Icon ersetzen. 

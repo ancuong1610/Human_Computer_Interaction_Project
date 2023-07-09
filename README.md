@@ -236,16 +236,18 @@ Erwartungen:
 <ul>
     <li>Hauptfunktionalität NFC fehlt komplett:
         <ul>
-            <li>man kann sich nicht ausweisen, bezahlen oder NFC nutzen um Karten hinzuzufügen
-        </ul>
-    - dies ist bei der App nur gemocked
-        - Verbesserungsvorschlag: NFC read und write fertig implementieren (**Hinweis**: Zeit am Ende zu knapp, um den Code auf dem Smartphone zu testen und Notwendigkeit eins Androidhandys, was leider nicht alle in der Gruppe hatten. Deswegen konnte die Funktionalität am Ende aus zeitlichen und organisatorischen Gründen nicht mehr fertiggestellt werden)
-
-- Bei Toast "Passwort Format falsch" werden nicht alle relevanten Hinweise für ein korrektes Passwort aufgeführt.
-    - Verbesserungsvorschlag: Toast-Inhalt ausführlicher beschreiben.
-
+            <li>man kann sich nicht ausweisen, bezahlen oder NFC nutzen um Karten hinzuzufügen</li>
+             <li>dies ist bei der App nur gemocked</li>
+                </ul>
+                    <li>Verbesserungsvorschlag: NFC read und write fertig implementieren (**Hinweis**: Zeit am Ende zu knapp, um den Code auf dem Smartphone zu testen und Notwendigkeit eins Androidhandys, was leider nicht alle in der Gruppe hatten. Deswegen konnte die Funktionalität am Ende aus zeitlichen und organisatorischen Gründen nicht mehr fertiggestellt werden)</li>
+</ul>
+    <li>Bei Toast "Passwort Format falsch" werden nicht alle relevanten Hinweise für ein korrektes Passwort aufgeführt.
+        <ul>
+            <li>Verbesserungsvorschlag: Toast-Inhalt ausführlicher beschreiben.</li>
+</ul>
 - Toast bei "Passwort Format falsch" wird zu kurz zum Lesen angezeigt.
-    - Verbesserungsvorschlag: Toast länger anzeigen lassen oder ein TextView mit dem Hinweis anzeigen.
+    </ul>
+         <li>Verbesserungsvorschlag: Toast länger anzeigen lassen oder ein TextView mit dem Hinweis anzeigen.
 
 - Icon vom Button zum Ein- und Ausblenden der Filter-Buttons ist nicht selbsterklärend:
     - Verbesserungsvorschlag: Icon durch ein eindeutiges Icon ersetzen. 

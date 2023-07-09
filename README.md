@@ -267,8 +267,8 @@ Erwartungen:
 
 <ul>
      <li>Die zwei genannten Bugs fixen. (von Persona 2)</li>
-        Verbesserungsvorschlag: Beim Anlegen eines Benutzernamens das Einfügen von Zeilenumbrücken deaktivieren.
-        Verbesserungsvorschlag: Nur auf der Home-Seite das "Klicken" auf Karten zulassen. 
+        1. Verbesserungsvorschlag: Beim Anlegen eines Benutzernamens das Einfügen von Zeilenumbrücken deaktivieren.<br>
+        2. Verbesserungsvorschlag: Nur auf der Home-Seite das "Klicken" auf Karten zulassen. 
 </ul>
 
 <ul>

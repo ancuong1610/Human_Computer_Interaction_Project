@@ -95,7 +95,7 @@ Protokoll/Transkript zu [Persona 2](./Meilenstein_2/Interviewprotokolle/Intervie
 1. Login (für den Test mit "a" als E-Mail und "a" als Passwort)
 
     [Bild Startseite](/Meilenstein_3/Bilder_Papierprototyp/01_Startseite.jpg)<br>
-    [Login mit eingeblendeter Tastatur](/Meilenstein_3/Bilder_Papierprototyp/02_Login mit       eingeblendeter Tastatur.jpg)<br>
+    [Login mit eingeblendeter Tastatur](/Meilenstein_3/Bilder_Papierprototyp/02_Login mit eingeblendeter Tastatur.jpg)<br>
     [Login ohne Tastatur](/Meilenstein_3/Bilder_Papierprototyp/03_Login ohne Tastatur.jpg)<br>
     [Übersicht der Karten nach Login](/Meilenstein_3/Bilder_Papierprototyp/04_Übersicht mit mehreren Karten.jpg)<br>
 2. (bereitgestellten) Personalausweis hinzufügen

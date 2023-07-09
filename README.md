@@ -235,9 +235,20 @@ Erwartungen:
     - man kann sich nicht ausweisen, bezahlen oder NFC nutzen um Karten hinzuzufügen
     - dies ist bei der App nur gemocked
         - Verbesserungsvorschlag: NFC read und write fertig implementieren
-- Toast bei "Passwort Format falsch" ausführlicher beschreiben und länge anzeigen lassen.
-- Icon vom Button zum ein- und ausblenden der Filter-Button überarbeiten.
+
+- Bei Toast "Passwort Format falsch" werden nicht alle relevanten Hinweise für ein korrektes Passwort aufgeführt.
+    - Verbesserungsvorschlag: Toast-Inhalt ausführlicher beschreiben.
+
+- Toast bei "Passwort Format falsch" wird zu kurz zum Lesen angezeigt.
+    - Verbesserungsvorschlag: Toast länger anzeigen lassen oder ein TextView mit dem Hinweise anzeigen.
+
+- Icon vom Button zum ein- und ausblenden der Filter-Button ist nicht selbst erklärenden:
+    - Verbesserungsvorschlag: Icon durch ein eindeutiges Icon ersetzen. 
+
 - Die zwei genannten Bugs fixen. (von Persona 2)
+    1. Verbesserungsvorschlag: Beim anlegen eines Benutzernamen das einfühgen von Zeilenumbrücken deaktivieren.
+    2. Verbesserungsvorschlag: Nur auf der Home-Seite das "klicken" auf Karten zulassen.
+
 - Einstellungsseite ist leer und man kommt nicht mehr zurück zur Home-Seite:
     - Verbesserungsvorschläge:
         - weitere Optionen (z.B. Sprache, Darkmode, Profil/Passwort-Änderung)

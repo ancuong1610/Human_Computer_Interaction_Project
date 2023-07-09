@@ -242,18 +242,18 @@ Erwartungen:
     - Verbesserungsvorschlag: Toast-Inhalt ausführlicher beschreiben.
 
 - Toast bei "Passwort Format falsch" wird zu kurz zum Lesen angezeigt.
-    - Verbesserungsvorschlag: Toast länger anzeigen lassen oder ein TextView mit dem Hinweise anzeigen.
+    - Verbesserungsvorschlag: Toast länger anzeigen lassen oder ein TextView mit dem Hinweis anzeigen.
 
-- Icon vom Button zum ein- und ausblenden der Filter-Button ist nicht selbst erklärenden:
+- Icon vom Button zum Ein- und Ausblenden der Filter-Buttons ist nicht selbsterklärend:
     - Verbesserungsvorschlag: Icon durch ein eindeutiges Icon ersetzen. 
 
 - Die zwei genannten Bugs fixen. (von Persona 2)
-    1. Verbesserungsvorschlag: Beim anlegen eines Benutzernamen das einfühgen von Zeilenumbrücken deaktivieren.
-    2. Verbesserungsvorschlag: Nur auf der Home-Seite das "klicken" auf Karten zulassen.
+    1. Verbesserungsvorschlag: Beim Anlegen eines Benutzernamens das Einfügen von Zeilenumbrücken deaktivieren.
+    2. Verbesserungsvorschlag: Nur auf der Home-Seite das "Klicken" auf Karten zulassen.
 
 - Einstellungsseite ist leer und man kommt nicht mehr zurück zur Home-Seite:
     - Verbesserungsvorschläge:
-        - weitere Optionen (z.B. Sprache, Darkmode, Profil/Passwort-Änderung)
+        - weitere Optionen (z.B. Sprache, Darkmode, Profil/Passwort-Änderung usw.)
         - mit X versehen um wieder rauszukommen
         - oder ganz weglassen und das Zahnrad-Symbol durch ein Logout-Symbol ersetzen
 

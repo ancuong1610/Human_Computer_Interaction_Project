@@ -281,6 +281,9 @@ Erwartungen:
                     <ul>
                         <li>weitere Optionen (z.B. Sprache, Darkmode, Profil/Passwort-Änderung usw.)</li>
                         <li>mit X versehen um wieder rauszukommen</li>
-                        <li>oder ganz weglassen und das Zahnrad-Symbol durch ein Logout-Symbol ersetzen</li>
-                            <ul>
+                        <li>oder ganz weglassen und das Zahnrad-Symbol durch ein Logout-Symbol ersetzen
+                        </ul>
+						</li>
+						</ul>
+						</li>
 </ul>

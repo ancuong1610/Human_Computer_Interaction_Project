@@ -236,7 +236,8 @@ Erwartungen:
 - Hauptfunktionalität NFC fehlt komplett: 
     - man kann sich nicht ausweisen, bezahlen oder NFC nutzen um Karten hinzuzufügen
     - dies ist bei der App nur gemocked
-        - Verbesserungsvorschlag: NFC read und write fertig implementieren
+        - Verbesserungsvorschlag: NFC read und write fertig implementieren (**Hinweis**: Zeit am Ende zu knapp, um den Code auf dem Smartphone zu testen und Notwendigkeit eins Androidhandys, was leider nicht alle in der Gruppe hatten. Deswegen konnte die Funktionalität am Ende aus zeitlichen und organisatorischen Gründen nicht mehr fertiggestellt werden )
+)
 
 - Bei Toast "Passwort Format falsch" werden nicht alle relevanten Hinweise für ein korrektes Passwort aufgeführt.
     - Verbesserungsvorschlag: Toast-Inhalt ausführlicher beschreiben.

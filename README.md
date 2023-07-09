@@ -148,6 +148,8 @@ Die Screen-Übergange mithilfe der Buttons (siehe [Figma-Abbildung](/Meilenstein
 
 ### Usability Tests:
 
+[Aufgabenliste und Bewertungskriterien](/Meilenstein_6/UsabilityTest.pdf)<br>
+
 ### Protokoll zu [Persona 1] (Gleiche Person wie beim Interview aus Meilenstein 2)
 Effektivität:
 - Hinsichtlich der Effektivität hat fast alles auf Anhieb geklappt, mit Ausnahme von zwei Punkten:

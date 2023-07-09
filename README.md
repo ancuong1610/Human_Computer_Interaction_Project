@@ -151,8 +151,8 @@ Die Screen-Übergange mithilfe der Buttons (siehe [Figma-Abbildung](/Meilenstein
 ### Protokoll zu [Persona 1] (Gleiche Person wie beim Interview aus Meilenstein 2)
 Effektivität:
 - Hinsichtlich der Effektivität hat fast alles auf Anhieb geklappt, mit Ausnahme von zwei Punkten:
-- Es gab Probleme beim Registrieren aufgrund der Passworteingabe. Erst nach mehreren Versuchen wurde das Passwort akzeptiert.
-- Der Button zum Anzeigen der Filterbuttons wurde nicht direkt gefunden. 
+1. Es gab Probleme beim Registrieren aufgrund der Passworteingabe. Erst nach mehreren Versuchen wurde das Passwort akzeptiert.
+2. Der Button zum Anzeigen der Filterbuttons wurde nicht direkt gefunden. 
 
 Effizienz:
 - Bei den meisten Aufgaben ging die Nutzerin ohne zu zögern direkt vor. Lediglich beim Filtern nach Gesundheit musste sie etwas länger überlegen. Außerdem hat sie sich gewundert, warum für das Abmelden ein separater Bildschirm (von welchem man nicht wieder zurück kann) angezeigt werden musste. 

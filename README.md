@@ -237,11 +237,13 @@ Erwartungen:
     <li>Hauptfunktionalität NFC fehlt komplett:
         <ul>
             <li>man kann sich nicht ausweisen, bezahlen oder NFC nutzen um Karten hinzuzufügen</li>
-             <li>dies ist bei der App nur gemocked</li>
-                </ul>
+             <li>dies ist bei der App nur gemocked
                     <ul>
                         <li>Verbesserungsvorschlag: NFC read und write fertig implementieren (<b>Hinweis</b>: Zeit am Ende zu knapp, um den Code auf dem Smartphone zu testen und Notwendigkeit eins Androidhandys, was leider nicht alle in der Gruppe hatten. Deswegen konnte die Funktionalität am Ende aus zeitlichen und organisatorischen Gründen nicht mehr fertiggestellt werden)</li>
-                            </ul>
+                        </ul>
+						</li>
+						</ul>
+						</li>
 </ul>
 <ul>
     <li>Bei Toast "Passwort Format falsch" werden nicht alle relevanten Hinweise für ein korrektes Passwort aufgeführt.
@@ -265,8 +267,10 @@ Erwartungen:
 
 <ul>
      <li>Die zwei genannten Bugs fixen. (von Persona 2)</li>
-        1. Verbesserungsvorschlag: Beim Anlegen eines Benutzernamens das Einfügen von Zeilenumbrücken deaktivieren.
-        2. Verbesserungsvorschlag: Nur auf der Home-Seite das "Klicken" auf Karten zulassen.
+        <ol>
+            <li>Verbesserungsvorschlag: Beim Anlegen eines Benutzernamens das Einfügen von Zeilenumbrücken deaktivieren.</li>
+            <li>Verbesserungsvorschlag: Nur auf der Home-Seite das "Klicken" auf Karten zulassen.</li>
+                </ol>
 </ul>
 
 <ul>
